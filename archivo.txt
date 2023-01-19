@@ -13,3 +13,5 @@ Version 3.0
 Agregamos esta cuarta línea para verificación.
 
 Version 4.0
+
+Aplicando cambio luego de utilizar git rm --cached
