@@ -2,10 +2,6 @@ Realizamos el primer cambio.
 
 Version 1.0
 
-Segundo Commit que 
+Segundo Commit que Realizamos
 
 Version 2.0
-
-Borramos "Realizamos" de la versión 2.0
-
-Versión 3.0
